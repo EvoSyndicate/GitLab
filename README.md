@@ -1,5 +1,5 @@
 # GitLab
 🦄
-GitLab
-Get Labrador
-Get Lab
+* GitLab
+* Get Labrador
+* Get Lab
